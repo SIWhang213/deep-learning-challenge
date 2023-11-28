@@ -33,6 +33,7 @@
 - Summarize the overall results of your model
 - Describe how you could use a different model to solve the same problem, and explain why you would use that model 
 
-### Attached folders and files :
-* one folder including two jupyter notebook files (AlphabetSoupCharity.ipynb, AlphabetSoupCharity_Optimization.ipynb) and markdowm file (report-challenge21.md)
+### Attached files :
+* two jupyter notebook files (AlphabetSoupCharity.ipynb, AlphabetSoupCharity_Optimization.ipynb)
+* one markdowm file (report-challenge21.md)
 * one REDME file
